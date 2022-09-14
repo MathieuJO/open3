@@ -1,7 +1,8 @@
-
+@import "base/reset";
+@import "layout/header";
+@import "layout/loader";
 @import "utils/variables";
 
 
-body {
-    background-color:$primary;
-}
+
+
